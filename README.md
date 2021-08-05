@@ -1,3 +1,4 @@
+![Code](https://i.ibb.co/DkjTJV2/code.jpg)
 ### Hello World 👋
 I am a software engineer, Frontend enthusiast and I love working with web technologie 👨‍💻.
 - 💜 I like to create exceptional digital experiences accessible for everyone. 
