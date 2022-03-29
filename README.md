@@ -1,8 +1,8 @@
 ![Code](https://i.ibb.co/DkjTJV2/code.jpg)
 ### Hello World 👋
-I am a software engineer, Frontend enthusiast and I love working with web technologie 👨‍💻.
+I am a software engineer, Backend enthusiast and I love working with web technologies 👨‍💻.
 - 💜 I like to create exceptional digital experiences accessible for everyone. 
-- 🌱 Learning design patterns in depth
+- 🌱 Learning design patterns in depth for write more reusable code. 
 <br>
 
 ## Connect with me
