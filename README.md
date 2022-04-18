@@ -15,7 +15,7 @@ I am a software engineer, Backend enthusiast and I love working with web technol
 <br>
 <br>
 
-## Expertise
+## Skills
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
