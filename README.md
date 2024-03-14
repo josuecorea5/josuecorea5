@@ -2,7 +2,7 @@
 ### Hello World 👋
 I am a software engineer, Backend enthusiast and I love working with web technologies 👨‍💻.
 - 💜 I like to create exceptional digital experiences accessible for everyone. 
-- 🌱 Learning design patterns in depth for write more reusable code. 
+- 🌱 Learning .NET and clean architecture in depth an for write more reusable code. 
 <br>
 
 ## Connect with me
@@ -22,11 +22,11 @@ I am a software engineer, Backend enthusiast and I love working with web technol
 
 <img align="left" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img align="left" alt="php" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
                                                                                                                                    
-<img align="left" alt="SASS" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />      
+<img align="left" alt="SQLSERVER" src="https://img.shields.io/badge/sqlserver-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />      
                                                                                                                                          
 <img align="left" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />                                                             
 
